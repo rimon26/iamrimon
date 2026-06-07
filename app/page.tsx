@@ -128,8 +128,8 @@ export default function App() {
             className="flex items-center space-x-2.5 font-display font-black text-lg tracking-wider text-white hover:text-[#C1FF00] cursor-pointer transition-colors uppercase"
             id="brand-logo"
           >
-            <div className="w-9 h-9 rounded-full bg-[#C1FF00] flex items-center justify-center text-sm text-black font-black">
-              A
+            <div className="w-7 h-7 rounded-full bg-[#C1FF00] flex items-center justify-center text-sm text-black font-black">
+              <img src="./favicon.ico" alt="" />
             </div>
             <span>
               Al Mahmud <span className="text-[#C1FF00]">Rimon</span>
